@@ -1,0 +1,4 @@
+- GeekOn  *50+ zadań z SQL*
+  - [SQL tasks](https://github.com/AnetaWierzbicka/Portfolio/blob/main/SQLtasks_part1.sql](https://github.com/AnetaWierzbicka/SQL/blob/main/SQLtasks_part1.sql)) (SELECT, WHERE, ORDER BY, GROUP BY, INNER JOIN)
+- Czy IT jest dla mnie - testing platform *SQL Sandbox*
+  - [SQL tasks](https://github.com/AnetaWierzbicka/Portfolio/blob/main/SQLtasks_part2.sql](https://github.com/AnetaWierzbicka/SQL/blob/main/SQLtasks_part2.sql)) (INSERT, UPDATE, DELETE)
